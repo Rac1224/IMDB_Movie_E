@@ -20,10 +20,15 @@ The project aims to design and implement a robust data pipeline  transform raw d
 - CSV files including directors, actresses and actors saved in Jupter Notebook project directory https://chipzx92.github.io/DataEngineeringI320/docs/projects/imdb_ent/REQUIREMENTS.html
 - IMDB Genres include Animation, Comedy, Family, Musical, and Romance
 - Five CSV files:
+  
   • imdb_titles
+  
   • imdb_title_ratings
+  
   • imdb_title_genres
+  
   • imdb_person_title_roles
+  
   • imdb_genres
 
 ## Data Cleaning
